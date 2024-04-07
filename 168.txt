@@ -1,0 +1,131 @@
+{
+    "urls": [
+    
+        {
+            "url": "https://pan.shangui.cc/f/myVAfb/%E5%A4%A7%E4%BA%BA%E5%BD%B1%E8%A7%86.json",
+            "name": "🌹大人影视"
+        },
+        {
+            "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
+            "name": "🌹经典在线"
+        },
+      
+   
+        {
+            "url": "https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json",
+            "name": "😍星河带飞"
+        },
+      
+       
+       
+        {
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/juyou.json",
+            "name": "🏝🌈酒友影院"
+        },
+       
+        {
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/1.json",
+            "name": "🏝🌈娱乐影院04"
+        },
+        {
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/2.json",
+            "name": "🏝🌈娱乐影院05"
+        },
+        {
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/6.json",
+            "name": "🏝🌈娱乐影院08"
+        },
+        {
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/7.json",
+            "name": "🏝🌈娱乐影院09"
+        },
+       
+        {
+            "url": "https://guot55.github.io/gg1/qh.json",
+            "name": "🐓鸡你太美"
+        },
+       
+       
+       
+        {
+            "url": "https://mpimg.cn/down.php/71619663801190a09db627d591cd5cad.msll&e4f28a49643fedf735775a7b1ddb567f",
+            "name": "🔞18+1"
+        },
+        
+       
+        {
+            "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/1130cz.json",
+            "name": "🔞MHQTV.1130cz"
+        },
+        
+
+        {
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json",
+            "name": "🔞fenwe.adult"
+        },
+        {
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/ziyong.json",
+            "name": "🔞fenwe.ziyong"
+        },
+        {
+            "url": "https://agit.ai/xixi/yizhan/raw/branch/master/b.txt",
+            "name": "🔞xixi驿站"
+        },
+        
+
+        {
+            "url": "https://agit.ai/study520x/x/raw/branch/master/AV.json",
+            "name": "🔞Study520x"
+        },
+
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/hh",
+            "name": "🔞XXXXXZ"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1",
+            "name": "🔞XXX1"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2",
+            "name": "🔞XXX2"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3",
+            "name": "🔞XXX3"
+        },
+        {
+            "url": "https://agit.ai/yschaizhen/TVboxo/raw/branch/main/Text/18.json",
+            "name": "🔞XXX4"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
+            "name": "🔞Peter(H)"
+        },
+        {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/9.26%E7%A6%8F%E5%88%A9.txt",
+            "name": "🔞18线路"
+        },
+        {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/18+.txt",
+            "name": "🔞18+线路"
+        },
+        {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/18jin.json",
+            "name": "🔞18jin线路"
+        },
+        {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/888.json",
+            "name": "🔞888线路"
+        },
+        {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/PRO.json",
+            "name": "🔞PRO线路"
+        },
+        {
+            "url": "https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/Yoursmile18.json",
+            "name": "🔞Yoursmile18线路"
+        }
+     
+    ]
+}
